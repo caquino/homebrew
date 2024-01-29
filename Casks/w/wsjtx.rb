@@ -6,7 +6,6 @@ cask "wsjtx" do
   desc "Weak signal ham radio communication package"
   homepage "https://www.physics.princeton.edu/pulsar/K1JT/wsjtx.html"
   url "https://downloads.sourceforge.net/wsjt/wsjtx-#{version}-Darwin.dmg"
-  appcast "https://sourceforge.net/projects/wsjt/rss"
 
   app "WSJT-X.app"
 
